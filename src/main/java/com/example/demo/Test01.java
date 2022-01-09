@@ -7,5 +7,6 @@ public class Test01 {
         System.out.println("当前是master分支-----01");
         System.out.println("当前是master分支-----0111111111111");
         System.out.println("当前是dev分支-----01");
+        System.out.println("只是试试而已02");
     }
 }
